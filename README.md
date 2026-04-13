@@ -1,12 +1,28 @@
-# 👋 こんにちは、バンダールです  
+Hi, I'm Bandar 👋
 
-19歳、独学のソフトウェアエンジニア。  
-テンプル大学ジャパンキャンパス在学中。  
+Software engineer and CS student at Temple University Japan building AI-powered products and SaaS.
 
----
+Currently building real-world applications with Next.js, TypeScript, and modern AI APIs.
 
-### 🔧 技術スタック
-- フロントエンド: Next.js、React、TypeScript、Tailwind、shadcn/ui  
-- バックエンド: Supabase、Prisma、Node.js  
-- AI/音声: Gemini API、Whisper、Web Speech API  
-- ツール: GitHub、Vercel、Cursor、Chrome 拡張機能  
+Tech Stack
+
+Frontend
+Next.js • React • TypeScript • TailwindCSS
+
+Backend
+Node.js • Supabase • Prisma • REST APIs
+
+AI
+Gemini API • Whisper • Web Speech API
+
+Tools
+GitHub • Vercel • Clerk • Stripe • PostHog
+
+What I'm Working On
+
+• AI-powered SaaS products
+• developer tools
+• real-world AI integrations
+
+📍 Tokyo, Japan
+📫 bandarmatab55@gmail.com
